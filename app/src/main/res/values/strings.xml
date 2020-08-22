@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ScopedStorage</string>
+    <string name="file_operations_demo">File Operations Demo</string>
+</resources>
